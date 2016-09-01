@@ -1,5 +1,4 @@
 # 4103-101-OpSys-Ho
-
- Nathan Ho 
- 
- Nathanho0628@gmail.com
+file:///C:/Users/Ti/Desktop/mypicture.jpg
+Nathan Ho 
+Nathanho0628@gmail.com
