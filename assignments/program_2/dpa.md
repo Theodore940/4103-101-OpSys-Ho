@@ -1,3 +1,4 @@
+```
 import threading
 import os
 from os import system
@@ -84,3 +85,4 @@ if __name__ == "__main__":
          while True: time.sleep(021)
     except (KeyboardInterrupt, SystemExit):
          os._exit(0)
+```
