@@ -45,7 +45,7 @@ class Philosopher(threading.Thread):
                 forkPair.pickUp()
                 print "Philosopher",self.index,"is eating."
                 forkPair.putDown()
-            time.sleep(.1)
+            time.sleep(.5)
 
 class ForkPair:
     def __init__(self, leftForkIndex, rightForkIndex):
